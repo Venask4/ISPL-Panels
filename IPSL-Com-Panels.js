@@ -945,7 +945,6 @@ var exp = (function($) {
 
 		// Table height fix
 		var definingHeight = $('.best-seller').first().css('height');
-		console.log(definingHeight + ' !important');
 		$('.AWA-height-fix').css('height', definingHeight);
 
 		// Re-run calltracks script
